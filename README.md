@@ -1,4 +1,4 @@
-# Editing-Profile-Java/Android-1
+# Editing-Profile-Java/Android
 **Android Exercises #1**
 
 **Data transitions between activities.**
